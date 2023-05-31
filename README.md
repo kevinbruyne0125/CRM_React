@@ -111,16 +111,7 @@ For major changes, you are welcome to open an issue to discuss what you would li
 
 # Want to contribute ? Join our server (NWoC'20)
 
-https://discord.gg/TkKHAYVCza
-
-
 Deployment Link : https://freee-crm.netlify.app/
-
-
-Frontend Link : https://github.com/shelcia/crm-frontend
-
-
-Backend Link : https://github.com/shelcia/CRM-backend
 
 
 # Credentials to try out the app :
